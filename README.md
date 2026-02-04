@@ -6,6 +6,6 @@ Unlock special abilities, adapt to survival pressure, and master a grid that evo
 Whether you’re a casual player or a hardcore strategist, GridX rewards smart moves, fast thinking, and creative problem-solving.
 The grid is no longer static.
 The rules are no longer simple.
-Merge the future.
+Merge the future!
 
 Click here to play! https://jashbhai634.github.io/2048-GridX/
