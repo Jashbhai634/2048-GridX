@@ -7,4 +7,5 @@ Whether you’re a casual player or a hardcore strategist, GridX rewards smart m
 The grid is no longer static.
 The rules are no longer simple.
 Merge the future.
+
 Click here to play! https://jashbhai634.github.io/2048-GridX/
