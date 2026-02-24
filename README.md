@@ -1,3 +1,4 @@
+![Game Logo](logo.png)
 2048: GridX
 Merge the Future.
 
