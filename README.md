@@ -1,5 +1,6 @@
 ![Game Logo](logo.png)
-2048: GridX
+# 2048: GridX
+
 Merge the Future.
 
 Step into a next-generation twist on the classic 2048 experience. 2048: GridX blends clean strategy with neon visuals, reactive sound design, and powerful new mechanics that push your thinking beyond simple merging.
