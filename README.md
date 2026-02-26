@@ -28,6 +28,4 @@ Merge with precision.
 Plan with purpose.
 Win with intelligence.
 
-Merge the future!
-
 Click here to play! https://jashbhai634.github.io/2048-GridX/
